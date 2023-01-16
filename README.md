@@ -1,7 +1,5 @@
 ![unnamed](https://user-images.githubusercontent.com/87281326/197386674-2cb5ab27-8ced-47ba-87af-3d3101c24cfd.png)
 
-There's an updated release on archive.org https://archive.org/details/2415Recreation Note: it doesn't include the XP luna concept theme
-
 Hello, and welcome to the repository or Project 2415. This project is being worked on by me, and TechGuy's TechSpot & Games#3732, and aims at bringing back the look of Windows Whistler build 2415 into 2428, the closest leaked build we have. The project aims at editing all parts of the OS, from the login screen down to the build tag on the desktop. 
 ![immagine](https://cdn.discordapp.com/attachments/1033317469730910228/1033689600784334868/unknown.png)
 ![immagine](https://cdn.discordapp.com/attachments/1033317469730910228/1033689681390469212/unknown.png)
